@@ -2,7 +2,7 @@
 // 07-20-2020 Summer Term
 // Ch.10 Number 19 Modify fig 9-19 savings acct program to use a void function)
 // displays the account balance at
-//the end of 1 through 3 years
+// the end of 1 through 3 years
 
 #include <iostream>
 #include <iomanip>
